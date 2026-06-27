@@ -14,26 +14,35 @@
 ```typescript
 const akul = {
   role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "Java", "Python"],
-  tools: ["React", "Next.js", "Node.js", "Prisma", "Tailwind CSS"],
+  code: ["TypeScript", "Go", "Dart", "Rust", "Python", "Java"],
+  tools: ["Flutter", "gRPC", "PostgreSQL", "Next.js", "FastAPI", "Docker"],
   architecture: ["SPA", "SSR", "Microservices", "REST APIs"],
-  currentFocus: "Building developer tools & open source",
-  funFact: "I audit GitHub repos for fun 🏥"
+  currentFocus: "Encrypted messaging, AI/RAG systems, and static site generation",
+  funFact: "I build full-stack systems from crypto cores to mobile UIs"
 };
 ```
 
 ---
 
-### 🏗️ Featured Project
+### ??? Featured Projects
 
-<a href="https://github.com/AkulRaghav/github-health-auditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=github-health-auditor&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AkulRaghav/velix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=velix&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/AkulRaghav/genesis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=genesis&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/AkulRaghav/groundwork-rag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=groundwork-rag&theme=tokyonight&hide_border=true" />
 </a>
 
-**[RepoHealth Auditor](https://github-health-auditor.vercel.app)** — Audit any GitHub repo's health across 11 dimensions with 3D visualizations, vulnerability scanning, and AI-powered summaries.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Velix](https://github.com/AkulRaghav/velix)** | Privacy-first encrypted messaging platform | `Flutter` `Go` `Rust` `PostgreSQL` `gRPC` |
+| **[Genesis](https://github.com/AkulRaghav/genesis)** | Modern static site generator for the JVM | `Kotlin` `Markdown` `YAML` `HTML` |
+| **[Groundwork RAG](https://github.com/AkulRaghav/groundwork-rag)** | Production-grade RAG AI � 95% accuracy, zero hallucinations | `Python` `FastAPI` `ChromaDB` `Ollama` |
 
-`Next.js` `Three.js` `GSAP` `Prisma` `GitHub API` `OSV API`
-
+---
 ---
 
 ### 🛠️ Tech Stack
