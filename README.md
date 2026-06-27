@@ -15,19 +15,15 @@
 
 ---
 
-### $ whoami
+### About Me
 
-`go
-package main
+I'm a full-stack and systems engineer who builds production-grade software from the ground up — database schemas to mobile UIs, crypto primitives to Kubernetes deployments.
 
-var akul = Developer{
-    Languages:    []string{"Go", "Dart", "Rust", "TypeScript", "Python", "Kotlin", "Java"},
-    Frameworks:   []string{"Flutter", "Next.js", "FastAPI", "gRPC", "NestJS"},
-    Infra:        []string{"PostgreSQL", "NATS", "Redis", "Docker", "Kubernetes", "Terraform"},
-    Interests:    []string{"Cryptography", "Distributed Systems", "AI/ML", "Mobile"},
-    CurrentBuild: "Velix — E2E encrypted messaging with 6 Go microservices + Flutter + Rust FFI",
-}
-`
+Currently working on **Velix**, an end-to-end encrypted messaging platform with a Flutter mobile client, six Go gRPC microservices, a Rust cryptographic core, and cloud-native infrastructure (Helm, Terraform, Argo CD).
+
+I care about clean architecture, strong type systems, and shipping software that actually works under load. Most comfortable in **Go**, **Dart**, **Rust**, and **TypeScript**, but I'll pick whatever tool solves the problem best.
+
+**What I work with:** Flutter · Go · gRPC · Rust · PostgreSQL · NATS · Redis · Docker · Kubernetes · Next.js · FastAPI · Python · Kotlin
 
 ---
 
