@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Akul+Raghav;Full+Stack+Developer;Building+Tools+That+Matter;Open+Source+Enthusiast" alt="Typing SVG" />
+﻿<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Akul+Raghav;Full+Stack+%2B+Systems+Engineer;Building+Production+Grade+Software;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,51 +9,56 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-```typescript
+`	ypescript
 const akul = {
-  role: "Full Stack Developer",
-  code: ["TypeScript", "Go", "Dart", "Rust", "Python", "Java"],
-  tools: ["Flutter", "gRPC", "PostgreSQL", "Next.js", "FastAPI", "Docker"],
-  architecture: ["SPA", "SSR", "Microservices", "REST APIs"],
-  currentFocus: "Encrypted messaging, AI/RAG systems, and static site generation",
-  funFact: "I build full-stack systems from crypto cores to mobile UIs"
+  role: "Full Stack + Systems Engineer",
+  code: ["TypeScript", "Go", "Dart", "Rust", "Python", "Kotlin", "Java"],
+  tools: ["Flutter", "gRPC", "PostgreSQL", "Next.js", "FastAPI", "Docker", "Kubernetes"],
+  architecture: ["Microservices", "Event-Driven", "Clean Architecture", "gRPC APIs", "SSR"],
+  currentFocus: "Encrypted messaging, AI/RAG pipelines, and developer tooling",
+  funFact: "I build full-stack systems — from Rust crypto cores to Flutter mobile UIs"
 };
-```
+`
 
 ---
 
-### ??? Featured Projects
-
-<a href="https://github.com/AkulRaghav/velix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=velix&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AkulRaghav/genesis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=genesis&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AkulRaghav/groundwork-rag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=groundwork-rag&theme=tokyonight&hide_border=true" />
-</a>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Velix](https://github.com/AkulRaghav/velix)** | Privacy-first encrypted messaging platform | `Flutter` `Go` `Rust` `PostgreSQL` `gRPC` |
-| **[Genesis](https://github.com/AkulRaghav/genesis)** | Modern static site generator for the JVM | `Kotlin` `Markdown` `YAML` `HTML` |
-| **[Groundwork RAG](https://github.com/AkulRaghav/groundwork-rag)** | Production-grade RAG AI � 95% accuracy, zero hallucinations | `Python` `FastAPI` `ChromaDB` `Ollama` |
-
----
----
-
-### 🛠️ Tech Stack
+### Featured Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,java,python,tailwind,prisma,postgres,git,vercel,figma,vscode&perline=7" />
+  <a href="https://github.com/AkulRaghav/velix">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=velix&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AkulRaghav/genesis">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=genesis&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AkulRaghav/groundwork-rag">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkulRaghav&repo=groundwork-rag&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+| Project | What it does | Tech |
+|---------|-------------|------|
+| [**Velix**](https://github.com/AkulRaghav/velix) | E2E encrypted messaging — 6 Go microservices, Flutter client, Rust crypto core | Flutter Go Rust PostgreSQL gRPC NATS |
+| [**Genesis**](https://github.com/AkulRaghav/genesis) | Static site generator — Hugo's speed meets Astro's islands on the JVM | Kotlin Markdown YAML HTML Gradle |
+| [**Groundwork RAG**](https://github.com/AkulRaghav/groundwork-rag) | Conversational AI that answers from your docs — 95% accuracy, zero hallucinations | Python FastAPI ChromaDB Ollama LangChain |
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,go,rust,kotlin,ts,python,java,postgres,redis,docker,kubernetes,git,github&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,graphql,linux,vscode,figma&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkulRaghav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -61,12 +66,12 @@ const akul = {
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkulRaghav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkulRaghav&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AkulRaghav&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -74,7 +79,7 @@ const akul = {
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkulRaghav&theme=tokyo-night&hide_border=true&area=true" />
@@ -82,16 +87,8 @@ const akul = {
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkulRaghav/AkulRaghav/output/github-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <em>"Ship it, measure it, improve it."</em>
 </p>
 
 <p align="center">
